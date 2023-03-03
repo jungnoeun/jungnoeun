@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ... 
-https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white
+<img src=https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white />
 #6DB33F #6DB33F #4479A1
 
 
