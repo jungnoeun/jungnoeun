@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ... 
+https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white
+#6DB33F #6DB33F #4479A1
+
+
+
 <!--
 **jungnoeun/jungnoeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
